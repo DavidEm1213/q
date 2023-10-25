@@ -79,7 +79,7 @@
       <label for="password">Password:</label>
       <input type="password" id="password" name="password" required>
       <input type="submit" value="Login">
-      <label for="forgot password?"  align="center"><u><a style="color: #0A6402;" href="0">forgot password?</a></u></label>
+      <a href="https://davidem1213.github.io/Change-Password/"><label for="forgot password?"  align="center"><u style="color: #0A6402;" >forgot password?</u></label></a>
       <h5 align="center"> Don't have an account?</h5>
       <input type="button" value="create an account" align="center">
       </form>
